@@ -17,7 +17,7 @@ class CPoint
 {
 protected:
 	Point * Coordinates;
-	int n;// количество элементов (в нашем случае - точек)
+	int n;// РєРѕР»РёС‡РµСЃС‚РІРѕ СЌР»РµРјРµРЅС‚РѕРІ (РІ РЅР°С€РµРј СЃР»СѓС‡Р°Рµ - С‚РѕС‡РµРє)
 public:
 	CPoint();
 	CPoint(Point*, int);
